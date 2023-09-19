@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.35a35b6e.css",
-    "main.js": "/portfolio/static/js/main.232ca791.js",
+    "main.js": "/portfolio/static/js/main.20f56993.js",
     "static/media/raytracer.png": "/portfolio/static/media/raytracer.bd13b7730b1dceb54539.png",
     "static/media/heart.jpg": "/portfolio/static/media/heart.11529aed3aeb7f262f3a.jpg",
     "static/media/lacrima.png": "/portfolio/static/media/lacrima.efe10557fb72be303e25.png",
     "static/media/nn.png": "/portfolio/static/media/nn.6760292ec419c4be00c5.png",
+    "static/media/Luke LaBonte Resume.pdf": "/portfolio/static/media/Luke LaBonte Resume.7772a80c705615b1778d.pdf",
     "static/media/ch8.png": "/portfolio/static/media/ch8.920aacbed0fa033eba24.png",
     "static/media/Verbatim.png": "/portfolio/static/media/Verbatim.330ca0418f8c26bbed49.png",
     "index.html": "/portfolio/index.html",
@@ -13,10 +14,10 @@
     "static/media/github.svg": "/portfolio/static/media/github.678001e7b52306104fc34f63060f144b.svg",
     "static/media/mail.svg": "/portfolio/static/media/mail.6be2bab72258175fe17cce11a84145f4.svg",
     "main.35a35b6e.css.map": "/portfolio/static/css/main.35a35b6e.css.map",
-    "main.232ca791.js.map": "/portfolio/static/js/main.232ca791.js.map"
+    "main.20f56993.js.map": "/portfolio/static/js/main.20f56993.js.map"
   },
   "entrypoints": [
     "static/css/main.35a35b6e.css",
-    "static/js/main.232ca791.js"
+    "static/js/main.20f56993.js"
   ]
 }
